@@ -18,3 +18,4 @@ function solution(k, arr = []) {
 console.log(solution(3, [13, 15, 34, 23, 45, 65, 33, 11, 26, 42]));
 
 // 풀이도 3중 for문. + sort를 나중에 함..????? 강의 봐야함
+// 맞는 방법인 것 같다.
