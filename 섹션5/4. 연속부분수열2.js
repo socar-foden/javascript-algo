@@ -21,3 +21,4 @@ function solution(num, arr = []) {
 console.log(solution(5, [1, 3, 1, 2, 3]));
 
 // 풀의 강의 봐야함
+// 내가 푼 방식이 투 포인터 알고리즘의 개념과 같긴 한거 같다.
