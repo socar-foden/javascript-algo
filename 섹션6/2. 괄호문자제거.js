@@ -19,3 +19,5 @@ function solution(str = "") {
 }
 
 console.log(solution("(A(BC)D)EF(G(H)(IJ)K)LM(N)"));
+
+// 풀이에는 while의 조건부에 result.pop()을 넣어서 간단하게 표현함
